@@ -1,0 +1,23 @@
+MODEL OUTPUTS:
+
+1) Decision Tree model:
+    Mean:  4.277735710020492
+    Standard deviation:  0.7801593021164924
+
+_______________________________________________________________________
+
+2) Linear Regression model:
+    Mean:  5.037482786117751
+    Standard deviation:  1.0594382405606955
+
+________________________________________________________________________
+
+Note:- Linear regression is greater than decision tree
+and obviously decision Tree model is better than linear regression model
+
+We can try out any models of ML
+__________________________________________________________________________
+
+3) Random Forest Regressor Model:
+    Mean:  3.2927614525219413
+    Standard deviation:  0.6364628914174373
